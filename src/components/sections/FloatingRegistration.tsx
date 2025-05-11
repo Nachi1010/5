@@ -660,8 +660,8 @@ export const FloatingRegistration = () => {
       loading: "Processing..."
     },
     he: {
-      title: "אל תפספסו!",
-      subtitle: "הירשמו עכשיו לגישה מוקדמת",
+      title: "נרשמים עוד היום!",
+      subtitle: "ומקבלים חוזה חתום מראש לתעסוקה in-house בתום הלימודים",
       namePlaceholder: "ישראל ישראלי",
       emailPlaceholder: "your@email.com",
       phonePlaceholder: "050-000-0000",
